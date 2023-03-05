@@ -1,0 +1,40 @@
+.nature-gallery .nature-gallery-title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#icons .btn {
+    display: block;
+    margin: auto;
+}
+
+.card .card-img-top1 {
+    border: 5px solid #3af240;
+    border-radius: 4px;
+}
+
+.card .card-img-top2 {
+    border: 5px solid #25f5f1;
+    border-radius: 4px;
+}
+
+.card .card-img-top3 {
+    border: 5px solid #2825f5;
+    border-radius: 4px;
+}
+
+.card .card-body {
+    color: aliceblue;
+}
+
+.card .card-body .card-title {
+    margin-bottom: 30px;
+}
+
+.card .card-body .card-text {
+    display: none;
+}
+
+.card:hover .card-body .card-text {
+    display: block;
+}
